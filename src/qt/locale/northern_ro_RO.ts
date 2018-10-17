@@ -177,6 +177,6 @@
     </message>
     </context>
 <context>
-    <name>northern-core</name>
+    <name>kingscoin-core</name>
     </context>
 </TS>

@@ -62,12 +62,12 @@
         <translation>Endereços de recebimento</translation>
     </message>
     <message>
-        <source>These are your NORT addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Esses são seus endereços NORT para envio de pagamentos. Sempre verifique a quantia e os endereços de recebimento antes de enviar moedas.</translation>
+        <source>These are your KGS addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Esses são seus endereços KGS para envio de pagamentos. Sempre verifique a quantia e os endereços de recebimento antes de enviar moedas.</translation>
     </message>
     <message>
-        <source>These are your NORT addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Esses são seus endereços NORT para recebimento de pagamentos. É recomendado usar um novo endereço para cada transação.</translation>
+        <source>These are your KGS addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Esses são seus endereços KGS para recebimento de pagamentos. É recomendado usar um novo endereço para cada transação.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -168,16 +168,16 @@
         <translation>Confirmar criptografia de carteira</translation>
     </message>
     <message>
-        <source>Northern will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your NORTs from being stolen by malware infecting your computer.</source>
-        <translation>Northern vai fechar agora para finalizar o processo de criptografia. Lembre-se que encriptar sua carteira não pode proteger totalmente suas NORTs de serem roubadas por malwares infectando seu computador.</translation>
+        <source>Kingscoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your KGSs from being stolen by malware infecting your computer.</source>
+        <translation>Kingscoin vai fechar agora para finalizar o processo de criptografia. Lembre-se que encriptar sua carteira não pode proteger totalmente suas KGSs de serem roubadas por malwares infectando seu computador.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Você tem certeza que deseja criptografar sua carteira?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR NORT&lt;/b&gt;!</source>
-        <translation>Aviso: se você criptografar sua carteira e perder sua senha você &lt;b&gt;PERDERÁ TODAS AS SUAS NORT&lt;b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR KGS&lt;/b&gt;!</source>
+        <translation>Aviso: se você criptografar sua carteira e perder sua senha você &lt;b&gt;PERDERÁ TODAS AS SUAS KGS&lt;b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -231,7 +231,7 @@
         <translation>&amp;Encriptação BIP 38</translation>
     </message>
     <message>
-        <source>Enter a NORT Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <source>Enter a KGS Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
         <translation>Insira um endereço que você deseja criptografar usando a BIP 38. Insira a palavra-chave na caixa do meio. Pressione criptografar para computar a chave privada criptografada.</translation>
     </message>
     <message>
@@ -239,8 +239,8 @@
         <translation>Endereço:</translation>
     </message>
     <message>
-        <source>The NORT address to sign the message with</source>
-        <translation>O endereço NORT para assinar a mensagem</translation>
+        <source>The KGS address to sign the message with</source>
+        <translation>O endereço KGS para assinar a mensagem</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -271,8 +271,8 @@
         <translation>Copia a assinatura atual do sistema de transferência</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this NORT address</source>
-        <translation>Assine a mensagem para provar que você possui este endereço NORT</translation>
+        <source>Sign the message to prove you own this KGS address</source>
+        <translation>Assine a mensagem para provar que você possui este endereço KGS</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -287,12 +287,12 @@
         <translation>Limpar &amp;Tudo</translation>
     </message>
     <message>
-        <source>The NORT address the message was signed with</source>
-        <translation>O endereço NORT que assinou a mensagem</translation>
+        <source>The KGS address the message was signed with</source>
+        <translation>O endereço KGS que assinou a mensagem</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified NORT address</source>
-        <translation>Verifique a mensagem para ter certeza que foi assinada com o endereço NORT especificado.</translation>
+        <source>Verify the message to ensure it was signed with the specified KGS address</source>
+        <translation>Verifique a mensagem para ter certeza que foi assinada com o endereço KGS especificado.</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -582,16 +582,16 @@
         <translation>Ferramentas de abas</translation>
     </message>
     <message>
-        <source>Northern Core</source>
-        <translation>Northern Core</translation>
+        <source>Kingscoin Core</source>
+        <translation>Kingscoin Core</translation>
     </message>
     <message>
-        <source>Send coins to a NORT address</source>
-        <translation>Enviar moedas para um endereço NORT</translation>
+        <source>Send coins to a KGS address</source>
+        <translation>Enviar moedas para um endereço KGS</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and northern: URIs)</source>
-        <translation>Requisitar pagamentos (gera códigos QR e northern: URIs)</translation>
+        <source>Request payments (generates QR codes and kingscoin: URIs)</source>
+        <translation>Requisitar pagamentos (gera códigos QR e kingscoin: URIs)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -602,24 +602,24 @@
         <translation>Procurar masternodes</translation>
     </message>
     <message>
-        <source>&amp;About Northern Core</source>
-        <translation>&amp;Sobre o Northern Core</translation>
+        <source>&amp;About Kingscoin Core</source>
+        <translation>&amp;Sobre o Kingscoin Core</translation>
     </message>
     <message>
-        <source>Show information about Northern Core</source>
-        <translation>Mostra informação sobre o Northern Core</translation>
+        <source>Show information about Kingscoin Core</source>
+        <translation>Mostra informação sobre o Kingscoin Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Northern</source>
-        <translation>Modificar opções de configuração para Northern</translation>
+        <source>Modify configuration options for Kingscoin</source>
+        <translation>Modificar opções de configuração para Kingscoin</translation>
     </message>
     <message>
-        <source>Sign messages with your NORT addresses to prove you own them</source>
-        <translation>Assine mensagens com seus endereços NORT para provar que você os detém</translation>
+        <source>Sign messages with your KGS addresses to prove you own them</source>
+        <translation>Assine mensagens com seus endereços KGS para provar que você os detém</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified NORT addresses</source>
-        <translation>Verifique as mensagens para ter certeza que estão assinadas com os endereços NORT especificados</translation>
+        <source>Verify messages to ensure they were signed with specified KGS addresses</source>
+        <translation>Verifique as mensagens para ter certeza que estão assinadas com os endereços KGS especificados</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -650,8 +650,8 @@
         <translation>Abrir arquivo de configuração de Masternode</translation>
     </message>
     <message>
-        <source>Open a northern: URI or payment request</source>
-        <translation>Abrir um northern: URI ou requisição de pagamento</translation>
+        <source>Open a kingscoin: URI or payment request</source>
+        <translation>Abrir um kingscoin: URI ou requisição de pagamento</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -662,12 +662,12 @@
         <translation>Janela de exploração de blocos</translation>
     </message>
     <message>
-        <source>Show the Northern Core help message to get a list with possible Northern command-line options</source>
-        <translation>Mostra a ajuda da Northern Core para receber uma lista com possíveis opções de linha de comando Northern</translation>
+        <source>Show the Kingscoin Core help message to get a list with possible Kingscoin command-line options</source>
+        <translation>Mostra a ajuda da Kingscoin Core para receber uma lista com possíveis opções de linha de comando Kingscoin</translation>
     </message>
     <message>
-        <source>Northern Core client</source>
-        <translation>Cliente Core Northern</translation>
+        <source>Kingscoin Core client</source>
+        <translation>Cliente Core Kingscoin</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -798,8 +798,8 @@ MultiSend: %1</translation>
         <translation>Rótulo</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (northern.conf).</source>
-        <translation>Nem todas as transações serão exibidas. Para visualizar todas as transações você precisa definir txindex=1 no arquivo de configuração (northern.conf). </translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (kingscoin.conf).</source>
+        <translation>Nem todas as transações serão exibidas. Para visualizar todas as transações você precisa definir txindex=1 no arquivo de configuração (kingscoin.conf). </translation>
     </message>
 </context>
 <context>
@@ -964,8 +964,8 @@ MultiSend: %1</translation>
         <translation>médio-alto</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 unort per input.</source>
-        <translation>pode variar entre +/-%1 unort por input</translation>
+        <source>Can vary +/- %1 ukgs per input.</source>
+        <translation>pode variar entre +/-%1 ukgs por input</translation>
     </message>
     <message>
         <source>medium</source>
@@ -1079,8 +1079,8 @@ MultiSend: %1</translation>
         <translation>Editar endereço remetente</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid NORT address.</source>
-        <translation>O endereço que você selecionou, "%1" , não é um endereço válido de NORT</translation>
+        <source>The entered address "%1" is not a valid KGS address.</source>
+        <translation>O endereço que você selecionou, "%1" , não é um endereço válido de KGS</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1125,16 +1125,16 @@ MultiSend: %1</translation>
         <translation>versão</translation>
     </message>
     <message>
-        <source>Northern Core</source>
-        <translation>Northern Core</translation>
+        <source>Kingscoin Core</source>
+        <translation>Kingscoin Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Northern Core</source>
-        <translation>Sobre o Northern Core</translation>
+        <source>About Kingscoin Core</source>
+        <translation>Sobre o Kingscoin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1168,16 +1168,16 @@ MultiSend: %1</translation>
         <translation>Bem-vindo</translation>
     </message>
     <message>
-        <source>Welcome to Northern Core.</source>
-        <translation>Bem-vindo ao Northern Core.</translation>
+        <source>Welcome to Kingscoin Core.</source>
+        <translation>Bem-vindo ao Kingscoin Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Northern Core will store its data.</source>
-        <translation>Como essa é a primeira vez que o programa é utilizado, você pode escolher onde Northern Core vai armazenar os seus dados.</translation>
+        <source>As this is the first time the program is launched, you can choose where Kingscoin Core will store its data.</source>
+        <translation>Como essa é a primeira vez que o programa é utilizado, você pode escolher onde Kingscoin Core vai armazenar os seus dados.</translation>
     </message>
     <message>
-        <source>Northern Core will download and store a copy of the Northern block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Northern Core vai baixar e armazenar uma cópia da blockchain Northern. Pelo menos %1GB de informação será armazenado neste diretório e irá aumentar com o tempo. A carteira também será armazenada neste diretório.</translation>
+        <source>Kingscoin Core will download and store a copy of the Kingscoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Kingscoin Core vai baixar e armazenar uma cópia da blockchain Kingscoin. Pelo menos %1GB de informação será armazenado neste diretório e irá aumentar com o tempo. A carteira também será armazenada neste diretório.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1188,8 +1188,8 @@ MultiSend: %1</translation>
         <translation>Usar um diretório personalizado de dados:</translation>
     </message>
     <message>
-        <source>Northern Core</source>
-        <translation>Northern Core</translation>
+        <source>Kingscoin Core</source>
+        <translation>Kingscoin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1471,8 +1471,8 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>C&amp;arteira</translation>
     </message>
     <message>
-        <source>Automatically open the Northern client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automaticamente a porta do cliente Northern no roteador. Isto somente funciona quando seu roteador suporta UPnP e este esteja habilitado.</translation>
+        <source>Automatically open the Kingscoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automaticamente a porta do cliente Kingscoin no roteador. Isto somente funciona quando seu roteador suporta UPnP e este esteja habilitado.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1491,12 +1491,12 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically start Northern after logging in to the system.</source>
-        <translation>Iniciar automaticamente Northern depois de logar no sistema.</translation>
+        <source>Automatically start Kingscoin after logging in to the system.</source>
+        <translation>Iniciar automaticamente Kingscoin depois de logar no sistema.</translation>
     </message>
     <message>
-        <source>&amp;Start Northern on system login</source>
-        <translation>&amp;Iniciar Northern ao logar no sistema</translation>
+        <source>&amp;Start Kingscoin on system login</source>
+        <translation>&amp;Iniciar Kingscoin ao logar no sistema</translation>
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
@@ -1511,12 +1511,12 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>&amp;Rede</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Northern.</source>
-        <translation>A linguagem da interface pode ser definida aqui. Está configuração terá efeito após reinício do Northern.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Kingscoin.</source>
+        <translation>A linguagem da interface pode ser definida aqui. Está configuração terá efeito após reinício do Kingscoin.</translation>
     </message>
     <message>
-        <source>Connect to the Northern network through a SOCKS5 proxy.</source>
-        <translation>Conectar à rede Northern através de um proxy SOCKS5</translation>
+        <source>Connect to the Kingscoin network through a SOCKS5 proxy.</source>
+        <translation>Conectar à rede Kingscoin através de um proxy SOCKS5</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1646,8 +1646,8 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Imaturo:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Northern network after a connection is established, but this process has not completed yet.</source>
-        <translation>A informação mostrada pode estar desatualizada. A sua carteira se sincroniza automaticamente com a rede Northern após estabelecer uma conexão, mas esse processo ainda não foi concluído.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Kingscoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>A informação mostrada pode estar desatualizada. A sua carteira se sincroniza automaticamente com a rede Kingscoin após estabelecer uma conexão, mas esse processo ainda não foi concluído.</translation>
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
@@ -1739,8 +1739,8 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Quantidade</translation>
     </message>
     <message>
-        <source>Enter a NORT address (e.g. %1)</source>
-        <translation>Insira um endereço NORT (e.g. %1)</translation>
+        <source>Enter a KGS address (e.g. %1)</source>
+        <translation>Insira um endereço KGS (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1989,8 +1989,8 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>saída:</translation>
     </message>
     <message>
-        <source>Welcome to the Northern RPC console.</source>
-        <translation>Bem-vindo ao console da Northern RPC</translation>
+        <source>Welcome to the Kingscoin RPC console.</source>
+        <translation>Bem-vindo ao console da Kingscoin RPC</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2241,8 +2241,8 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Tamanho UTXO:</translation>
     </message>
     <message>
-        <source>0 NORT</source>
-        <translation>0 NORT</translation>
+        <source>0 KGS</source>
+        <translation>0 KGS</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -2281,12 +2281,12 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Tempo de confirmação:</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uNORTs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uNORTs in fee,&lt;br /&gt;while "at least" pays 1000 uNORTs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Se a taxa padrão estiver definida para 1000 uNORTs e a transação for somente de 250 bytes, então "por kilobyte" pagará somente 250 uNORTs em taxa,&lt;br /&gt; pagará pelo menos 1000 uNORTs. Para transações maiores que um kilobyte ambas pagam por kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uKGSs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uKGSs in fee,&lt;br /&gt;while "at least" pays 1000 uKGSs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Se a taxa padrão estiver definida para 1000 uKGSs e a transação for somente de 250 bytes, então "por kilobyte" pagará somente 250 uKGSs em taxa,&lt;br /&gt; pagará pelo menos 1000 uKGSs. Para transações maiores que um kilobyte ambas pagam por kilobyte.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Northern transactions than the network can process.</source>
-        <translation>Pagar a taxa mínima é aceitável desde que existe menos volume de transações que espaço nos blocos. &lt;br/&gt; Mas fique atento que isso pode acabar em uma transação que nunca será confirmada caso haja mais demanda por transações de Northern do que a rede pode processar.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Kingscoin transactions than the network can process.</source>
+        <translation>Pagar a taxa mínima é aceitável desde que existe menos volume de transações que espaço nos blocos. &lt;br/&gt; Mas fique atento que isso pode acabar em uma transação que nunca será confirmada caso haja mais demanda por transações de Kingscoin do que a rede pode processar.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -2369,8 +2369,8 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>usando</translation>
     </message>
     <message>
-        <source>Warning: Invalid NORT address</source>
-        <translation>Aviso: endereço NORT inválido</translation>
+        <source>Warning: Invalid KGS address</source>
+        <translation>Aviso: endereço KGS inválido</translation>
     </message>
     <message>
         <source>any available funds (not recommended)</source>
@@ -2460,8 +2460,8 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Pagar &amp;Para:</translation>
     </message>
     <message>
-        <source>The NORT address to send the payment to</source>
-        <translation>O endereço NORT para enviar o pagamento</translation>
+        <source>The KGS address to send the payment to</source>
+        <translation>O endereço KGS para enviar o pagamento</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2523,8 +2523,8 @@ Favor verificar o endereço e tente novamente.</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Northern Core is shutting down...</source>
-        <translation>Northern Core está desligando...</translation>
+        <source>Kingscoin Core is shutting down...</source>
+        <translation>Kingscoin Core está desligando...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2542,8 +2542,8 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>&amp;Assinar mensagem</translation>
     </message>
     <message>
-        <source>The NORT address to sign the message with</source>
-        <translation>O endereço NORT para assinar a mensagem</translation>
+        <source>The KGS address to sign the message with</source>
+        <translation>O endereço KGS para assinar a mensagem</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2574,16 +2574,16 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Copia a assinatura atual do sistema de transferência</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this NORT address</source>
-        <translation>Assine a mensagem para provar que você possui este endereço NORT</translation>
+        <source>Sign the message to prove you own this KGS address</source>
+        <translation>Assine a mensagem para provar que você possui este endereço KGS</translation>
     </message>
     <message>
-        <source>The NORT address the message was signed with</source>
-        <translation>O endereço NORT que assinou a mensagem</translation>
+        <source>The KGS address the message was signed with</source>
+        <translation>O endereço KGS que assinou a mensagem</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified NORT address</source>
-        <translation>Verifique a mensagem para ter certeza que foi assinada com o endereço NORT especificado.</translation>
+        <source>Verify the message to ensure it was signed with the specified KGS address</source>
+        <translation>Verifique a mensagem para ter certeza que foi assinada com o endereço KGS especificado.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2665,8 +2665,8 @@ Favor verificar o endereço e tente novamente.</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Northern Core</source>
-        <translation>Northern Core</translation>
+        <source>Kingscoin Core</source>
+        <translation>Kingscoin Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2685,8 +2685,8 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Os desenvolvedores do PIVX Core</translation>
     </message>
     <message>
-        <source>The Northern Core developers</source>
-        <translation>Os desenvolvedores do Northern Core</translation>
+        <source>The Kingscoin Core developers</source>
+        <translation>Os desenvolvedores do Kingscoin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3157,8 +3157,8 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Enviar Moedas</translation>
     </message>
     <message>
-        <source>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 NORT.</source>
-        <translation>SwiftTX ainda não suporta o envio de valores altos assim. As transações atualmente são limitadas a %1 NORT.</translation>
+        <source>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 KGS.</source>
+        <translation>SwiftTX ainda não suporta o envio de valores altos assim. As transações atualmente são limitadas a %1 KGS.</translation>
     </message>
 </context>
 <context>
@@ -3201,14 +3201,14 @@ Favor verificar o endereço e tente novamente.</translation>
     </message>
 </context>
 <context>
-    <name>northern-core</name>
+    <name>kingscoin-core</name>
     <message>
         <source>Delete all wallet transactions and only recover those parts of the blockchain through -rescan on startup</source>
         <translation>Deletar todas as transações da carteira e somente recuperar aquelas partes da blockchain através de -rescan na inicialização</translation>
     </message>
     <message>
-        <source>Disable all Northern specific functionality (Masternodes, SwiftTX, Budgeting) (0-1, default: %u)</source>
-        <translation>Desabilitar todas as funcionalidades específicas Northern (Masternodes, SwiftTX, Budgeting) (0-1, padrão: %u)</translation>
+        <source>Disable all Kingscoin specific functionality (Masternodes, SwiftTX, Budgeting) (0-1, default: %u)</source>
+        <translation>Desabilitar todas as funcionalidades específicas Kingscoin (Masternodes, SwiftTX, Budgeting) (0-1, padrão: %u)</translation>
     </message>
     <message>
         <source>Error: Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>
@@ -3223,12 +3223,12 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Executar o comando quando uma transação da carteira mudar (%s no cmd será substituído pela TxID)</translation>
     </message>
     <message>
-        <source>Fees (in NORT/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Taxas (em NORT/Kb) menores que isso serão consideradas taxa zero para propagação (padrão: %s)</translation>
+        <source>Fees (in KGS/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Taxas (em KGS/Kb) menores que isso serão consideradas taxa zero para propagação (padrão: %s)</translation>
     </message>
     <message>
-        <source>Fees (in NORT/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Taxas (em NORT/Kb) menores que isso serão consideradas taxa zero para a criação da transação (padrão: %s)</translation>
+        <source>Fees (in KGS/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Taxas (em KGS/Kb) menores que isso serão consideradas taxa zero para a criação da transação (padrão: %s)</translation>
     </message>
     <message>
         <source>In this mode -genproclimit controls how many blocks are generated immediately.</source>
@@ -3251,8 +3251,8 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>SwiftTX requer inputs com pelo menos 6 confirmações, você precisar aguardar alguns minutos e tentar novamente.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 NORT.</source>
-        <translation>Incapaz de localizar fundos para esta transação que não são iguais a 10000 NORT.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 KGS.</source>
+        <translation>Incapaz de localizar fundos para esta transação que não são iguais a 10000 KGS.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -3267,8 +3267,8 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Aviso: -paytxfee está definido como muito alto! Está e a taxa de transação que você irá pagar se enviar uma transação.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Northern Core will not work properly.</source>
-        <translation>Aviso: Favor verificar se o horário e data de seu computador estão corretos! Se o seu relógio estiver errado o Core Northern não vai funcionar corretamente.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Kingscoin Core will not work properly.</source>
+        <translation>Aviso: Favor verificar se o horário e data de seu computador estão corretos! Se o seu relógio estiver errado o Core Kingscoin não vai funcionar corretamente.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -3283,8 +3283,8 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Você deve especificar uma masternodeprivkey na configuração. Favor verificar o manual para obter ajuda.</translation>
     </message>
     <message>
-        <source>(6942 could be used only on mainnet)</source>
-        <translation>(6942 could be used only on mainnet)</translation>
+        <source>(1777 could be used only on mainnet)</source>
+        <translation>(1777 could be used only on mainnet)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -3295,8 +3295,8 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>(padrão: 1)</translation>
     </message>
     <message>
-        <source>(must be 6942 for mainnet)</source>
-        <translation>(deve ser 6942 para mainnet)</translation>
+        <source>(must be 1777 for mainnet)</source>
+        <translation>(deve ser 1777 para mainnet)</translation>
     </message>
     <message>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
@@ -3347,8 +3347,8 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Todos os direitos reservados (C) 2015-%i aos Desenvolvedores do PIVX Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2017-%i The Northern Core Developers</source>
-        <translation>Todos os direitos reservados (C) 2017-%i aos Desenvolvedores do Northern Core</translation>
+        <source>Copyright (C) 2017-%i The Kingscoin Core Developers</source>
+        <translation>Todos os direitos reservados (C) 2017-%i aos Desenvolvedores do Kingscoin Core</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -3399,8 +3399,8 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Erro no carregamento da wallet.dat: Carteira corrompida</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Northern Core</source>
-        <translation>Erro ao carregar wallet.dat: A Carteira requer uma nova versão da Northern Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Kingscoin Core</source>
+        <translation>Erro ao carregar wallet.dat: A Carteira requer uma nova versão da Kingscoin Core</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -3435,8 +3435,8 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Falhou em ler o bloco</translation>
     </message>
     <message>
-        <source>Fee (in NORT/kB) to add to transactions you send (default: %s)</source>
-        <translation>Taxa (em NORT/kB) a adicionar em transações que você enviar (padrão: %s)</translation>
+        <source>Fee (in KGS/kB) to add to transactions you send (default: %s)</source>
+        <translation>Taxa (em KGS/kB) a adicionar em transações que você enviar (padrão: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -3847,8 +3847,8 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Carteira está travada.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Northern Core to complete</source>
-        <translation>A carteira precisa ser reescrita: reinicia o Northern Core para completar</translation>
+        <source>Wallet needed to be rewritten: restart Kingscoin Core to complete</source>
+        <translation>A carteira precisa ser reescrita: reinicia o Kingscoin Core para completar</translation>
     </message>
     <message>
         <source>Wallet options:</source>

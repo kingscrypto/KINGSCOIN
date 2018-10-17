@@ -96,7 +96,7 @@ public:
 };
 
 /**
- * Northern RPC command dispatcher.
+ * Kingscoin RPC command dispatcher.
  */
 class CRPCTable
 {

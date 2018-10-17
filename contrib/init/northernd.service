@@ -1,19 +1,19 @@
 [Unit]
-Description=Northern's distributed currency daemon
+Description=Kingscoin's distributed currency daemon
 After=network.target
 
 [Service]
-User=northern
-Group=northern
+User=kingscoin
+Group=kingscoin
 
 Type=forking
-PIDFile=/var/lib/northernd/northernd.pid
+PIDFile=/var/lib/kingscoind/kingscoind.pid
 
-ExecStart=/usr/bin/northernd -daemon -pid=/var/lib/northernd/northernd.pid \
-          -conf=/etc/northern/northern.conf -datadir=/var/lib/northernd
+ExecStart=/usr/bin/kingscoind -daemon -pid=/var/lib/kingscoind/kingscoind.pid \
+          -conf=/etc/kingscoin/kingscoin.conf -datadir=/var/lib/kingscoind
 
-ExecStop=-/usr/bin/northern-cli -conf=/etc/northern/northern.conf \
-         -datadir=/var/lib/northernd stop
+ExecStop=-/usr/bin/kingscoin-cli -conf=/etc/kingscoin/kingscoin.conf \
+         -datadir=/var/lib/kingscoind stop
 
 Restart=always
 PrivateTmp=true

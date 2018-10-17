@@ -62,12 +62,12 @@
         <translation>Vastaanottavat osoitteet</translation>
     </message>
     <message>
-        <source>These are your NORT addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Nämä ovat sinun NORT osoitteesi maksujen lähetystä varten. Tarkista aina määrä ja vastaanottava osoite ennen kolikoiden lähettämistä.</translation>
+        <source>These are your KGS addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Nämä ovat sinun KGS osoitteesi maksujen lähetystä varten. Tarkista aina määrä ja vastaanottava osoite ennen kolikoiden lähettämistä.</translation>
     </message>
     <message>
-        <source>These are your NORT addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Nämä ovat sinun NORT osoitteesi maksujen vastaanottamista varten. On suositeltavaa käyttää uutta vastaanottavaa osoitetta jokaiselle uudelle rahansiirrolle.</translation>
+        <source>These are your KGS addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Nämä ovat sinun KGS osoitteesi maksujen vastaanottamista varten. On suositeltavaa käyttää uutta vastaanottavaa osoitetta jokaiselle uudelle rahansiirrolle.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -168,16 +168,16 @@
         <translation>Vahvista lompakon salaus</translation>
     </message>
     <message>
-        <source>Northern will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your NORTs from being stolen by malware infecting your computer.</source>
-        <translation>Northern sulkeutuu salausprosessin ajaksi. Muista, että lompakon salaus ei voi täysin suojella NORTien varkaudelta, jos tietokoneesi sisältää haittaohjelmia.</translation>
+        <source>Kingscoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your KGSs from being stolen by malware infecting your computer.</source>
+        <translation>Kingscoin sulkeutuu salausprosessin ajaksi. Muista, että lompakon salaus ei voi täysin suojella KGSien varkaudelta, jos tietokoneesi sisältää haittaohjelmia.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Oletko varma että tahdot salata lompakkosi?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR NORT&lt;/b&gt;!</source>
-        <translation>Varoitus: Jos salaat lompakkosi ja unohdat salausavaimesi, &lt;b&gt;menetät kaikki NORTisi&lt;/b&gt;</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR KGS&lt;/b&gt;!</source>
+        <translation>Varoitus: Jos salaat lompakkosi ja unohdat salausavaimesi, &lt;b&gt;menetät kaikki KGSisi&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -231,8 +231,8 @@
         <translation>&amp;BIP 38 Salaus</translation>
     </message>
     <message>
-        <source>Enter a NORT Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Syötä NORT osoite, jonnka tahtoisit salata käyttäen BIP 38.
+        <source>Enter a KGS Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Syötä KGS osoite, jonnka tahtoisit salata käyttäen BIP 38.
 Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityisavaimen.</translation>
     </message>
     <message>
@@ -240,8 +240,8 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Osoite:</translation>
     </message>
     <message>
-        <source>The NORT address to sign the message with</source>
-        <translation>NORT osoite, jolla viesti allekirjoitetaan</translation>
+        <source>The KGS address to sign the message with</source>
+        <translation>KGS osoite, jolla viesti allekirjoitetaan</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -272,8 +272,8 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Kopioi nykyinen allekirjoitus järjestelmän leikepöydälle</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this NORT address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän NORT osoitteen</translation>
+        <source>Sign the message to prove you own this KGS address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän KGS osoitteen</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -296,12 +296,12 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Syötä BIP 38 salattu yksityisavain. Syötä salausavain laatikkoon. Paina Avaa Salaus tuottaaksesi yksityisavaimen. Kun avain on dekryptattu, painamalla "Import osoite" lisää tämän yksityisavaimen lompakkoon.</translation>
     </message>
     <message>
-        <source>The NORT address the message was signed with</source>
-        <translation>NORT osoite, jolla viesti allekirjoitettiin</translation>
+        <source>The KGS address the message was signed with</source>
+        <translation>KGS osoite, jolla viesti allekirjoitettiin</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified NORT address</source>
-        <translation>Vahvista että viesti on allekirjoitettu kyseessä olevalla NORT osoitteella.</translation>
+        <source>Verify the message to ensure it was signed with the specified KGS address</source>
+        <translation>Vahvista että viesti on allekirjoitettu kyseessä olevalla KGS osoitteella.</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -587,16 +587,16 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>&amp;Apua</translation>
     </message>
     <message>
-        <source>Northern Core</source>
-        <translation>Northern Ydin</translation>
+        <source>Kingscoin Core</source>
+        <translation>Kingscoin Ydin</translation>
     </message>
     <message>
-        <source>Send coins to a NORT address</source>
-        <translation>Lähetä kolikkoja NORT osoitteeseen</translation>
+        <source>Send coins to a KGS address</source>
+        <translation>Lähetä kolikkoja KGS osoitteeseen</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and northern: URIs)</source>
-        <translation>Pyydä maksuja (Generoi QR koodeja ja northern: URIja)</translation>
+        <source>Request payments (generates QR codes and kingscoin: URIs)</source>
+        <translation>Pyydä maksuja (Generoi QR koodeja ja kingscoin: URIja)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -607,24 +607,24 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Selaa masternodeja</translation>
     </message>
     <message>
-        <source>&amp;About Northern Core</source>
-        <translation>Northern Core &amp;ytimestä</translation>
+        <source>&amp;About Kingscoin Core</source>
+        <translation>Kingscoin Core &amp;ytimestä</translation>
     </message>
     <message>
-        <source>Show information about Northern Core</source>
-        <translation>Näytä tietoja Northern Ytimestä</translation>
+        <source>Show information about Kingscoin Core</source>
+        <translation>Näytä tietoja Kingscoin Ytimestä</translation>
     </message>
     <message>
-        <source>Modify configuration options for Northern</source>
-        <translation>Muokkaa konfiguraatio vaihtoehtoja Northern:lle</translation>
+        <source>Modify configuration options for Kingscoin</source>
+        <translation>Muokkaa konfiguraatio vaihtoehtoja Kingscoin:lle</translation>
     </message>
     <message>
-        <source>Sign messages with your NORT addresses to prove you own them</source>
+        <source>Sign messages with your KGS addresses to prove you own them</source>
         <translation>Allekirjoita viestejä todistaaksesi, että omistat ne.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified NORT addresses</source>
-        <translation>Vahvista viestit varmistaaksesi, että ne allekirjoitettiin tietyllä NORT osoiteella.</translation>
+        <source>Verify messages to ensure they were signed with specified KGS addresses</source>
+        <translation>Vahvista viestit varmistaaksesi, että ne allekirjoitettiin tietyllä KGS osoiteella.</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -655,8 +655,8 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Avaa Masternode konfiguraatiotiedosto</translation>
     </message>
     <message>
-        <source>Open a northern: URI or payment request</source>
-        <translation>Avaa northern: URI tai pyydä maksua</translation>
+        <source>Open a kingscoin: URI or payment request</source>
+        <translation>Avaa kingscoin: URI tai pyydä maksua</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -667,12 +667,12 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Lohkon tutkija näkymä</translation>
     </message>
     <message>
-        <source>Show the Northern Core help message to get a list with possible Northern command-line options</source>
-        <translation>Näytä Northern Ydin apuviesti saadaksesi lista mahdollisista Northern komentolinja komennoista.</translation>
+        <source>Show the Kingscoin Core help message to get a list with possible Kingscoin command-line options</source>
+        <translation>Näytä Kingscoin Ydin apuviesti saadaksesi lista mahdollisista Kingscoin komentolinja komennoista.</translation>
     </message>
     <message>
-        <source>Northern Core client</source>
-        <translation>Northern Ydin asiakasohjelma</translation>
+        <source>Kingscoin Core client</source>
+        <translation>Kingscoin Ydin asiakasohjelma</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -930,8 +930,8 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Northern Core</source>
-        <translation>Northern Ydin</translation>
+        <source>Kingscoin Core</source>
+        <translation>Kingscoin Ydin</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -949,12 +949,12 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Tervetuloa</translation>
     </message>
     <message>
-        <source>Welcome to Northern Core.</source>
-        <translation>Tervetuloa Northern Ytimeen.</translation>
+        <source>Welcome to Kingscoin Core.</source>
+        <translation>Tervetuloa Kingscoin Ytimeen.</translation>
     </message>
     <message>
-        <source>Northern Core</source>
-        <translation>Northern Ydin</translation>
+        <source>Kingscoin Core</source>
+        <translation>Kingscoin Ydin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1150,12 +1150,12 @@ Please check the address and try again.</source>
         <translation>Ekspertti</translation>
     </message>
     <message>
-        <source>Automatically start Northern after logging in to the system.</source>
-        <translation>Automaattisesti käynnistä Northern kun kirjaudut sisään.</translation>
+        <source>Automatically start Kingscoin after logging in to the system.</source>
+        <translation>Automaattisesti käynnistä Kingscoin kun kirjaudut sisään.</translation>
     </message>
     <message>
-        <source>&amp;Start Northern on system login</source>
-        <translation>&amp;Aloita Northern järjestelmän kirjautumisessa</translation>
+        <source>&amp;Start Kingscoin on system login</source>
+        <translation>&amp;Aloita Kingscoin järjestelmän kirjautumisessa</translation>
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
@@ -1174,12 +1174,12 @@ Please check the address and try again.</source>
         <translation>&amp;Verkko</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Northern.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Kingscoin.</source>
         <translation>Käyttöliittymän kielen voi säätää täällä. Tämä asetus tulee voimaan uudelleenkäynnistettyäsi lompakon.</translation>
     </message>
     <message>
-        <source>Connect to the Northern network through a SOCKS5 proxy.</source>
-        <translation>Yhdistä Northern verkkoon SOCKS5 proxyn kautta</translation>
+        <source>Connect to the Kingscoin network through a SOCKS5 proxy.</source>
+        <translation>Yhdistä Kingscoin verkkoon SOCKS5 proxyn kautta</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1396,8 +1396,8 @@ Please check the address and try again.</source>
         <translation>Lohko ketju</translation>
     </message>
     <message>
-        <source>Open the Northern debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Avaa Northern debug loki nykyisestä sijainnista. Tämä voi kestää muutaman sekunnin suurille lokeille</translation>
+        <source>Open the Kingscoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Avaa Kingscoin debug loki nykyisestä sijainnista. Tämä voi kestää muutaman sekunnin suurille lokeille</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -1508,8 +1508,8 @@ Please check the address and try again.</source>
         <translation>Ulos:</translation>
     </message>
     <message>
-        <source>Welcome to the Northern RPC console.</source>
-        <translation>Tervetuloa Northern RPC konsoliin.</translation>
+        <source>Welcome to the Kingscoin RPC console.</source>
+        <translation>Tervetuloa Kingscoin RPC konsoliin.</translation>
     </message>
     <message>
         <source>never</source>
@@ -1551,12 +1551,12 @@ Please check the address and try again.</source>
         <translation>Vaihtoehtoinen nimike uudelle vastaanottavalle osoitteelle</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Northern network.</source>
-        <translation>Vaihtoehtoinen viesti joka liitetään maksupyyntöön, joka näytetään kun pyyntö avataan. Huomio: Viestiä ei lähetetä maksun mukana Northern verkolle.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Kingscoin network.</source>
+        <translation>Vaihtoehtoinen viesti joka liitetään maksupyyntöön, joka näytetään kun pyyntö avataan. Huomio: Viestiä ei lähetetä maksun mukana Kingscoin verkolle.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Northern network.</source>
-        <translation>Vaihtoehtoinen viesti, joka liitetään maksupyyntöö, joka näytetään kun pyyntö avataan. &lt;br&gt; Huomio: Tätä viestiä ei lähetetä maksun mukana Northern verkolle.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Kingscoin network.</source>
+        <translation>Vaihtoehtoinen viesti, joka liitetään maksupyyntöö, joka näytetään kun pyyntö avataan. &lt;br&gt; Huomio: Tätä viestiä ei lähetetä maksun mukana Kingscoin verkolle.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -1752,8 +1752,8 @@ Please check the address and try again.</source>
         <translation>Muutos:</translation>
     </message>
     <message>
-        <source>0 NORT</source>
-        <translation>0 NORT</translation>
+        <source>0 KGS</source>
+        <translation>0 KGS</translation>
     </message>
     <message>
         <source>Choose...</source>
@@ -1836,8 +1836,8 @@ Please check the address and try again.</source>
         <translation>käyttää</translation>
     </message>
     <message>
-        <source>Warning: Invalid NORT address</source>
-        <translation>Varoitus: Virheellinen NORT osoite</translation>
+        <source>Warning: Invalid KGS address</source>
+        <translation>Varoitus: Virheellinen KGS osoite</translation>
     </message>
     <message>
         <source>Are you sure you want to send?</source>
@@ -1875,8 +1875,8 @@ Please check the address and try again.</source>
         <translation>Tämä on normaali maksu.</translation>
     </message>
     <message>
-        <source>The NORT address to send the payment to</source>
-        <translation>NORT osoite johon maksu lähetetään</translation>
+        <source>The KGS address to send the payment to</source>
+        <translation>KGS osoite johon maksu lähetetään</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1918,8 +1918,8 @@ Please check the address and try again.</source>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Northern Core is shutting down...</source>
-        <translation>Northern core sammuu...</translation>
+        <source>Kingscoin Core is shutting down...</source>
+        <translation>Kingscoin core sammuu...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1937,8 +1937,8 @@ Please check the address and try again.</source>
         <translation>Voit allekirjoittaa viestejä osoitteillasi todistaaksesi, että omistat ne. Ole varovainen ettet allekirjoita mitään kummallista, sillä kalasteluyritykset saattavat yrittää huijata sinut luovuttamaan tietoja. Allekirjoita vain täysin yksityiskohtaisia sanomia, jotka hyväksyt.</translation>
     </message>
     <message>
-        <source>The NORT address to sign the message with</source>
-        <translation>NORT osoite, jolla viesti allekirjoitetaan</translation>
+        <source>The KGS address to sign the message with</source>
+        <translation>KGS osoite, jolla viesti allekirjoitetaan</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1969,16 +1969,16 @@ Please check the address and try again.</source>
         <translation>Kopioi nykyinen allekirjoitus järjestelmän leikepöydälle</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this NORT address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän NORT osoitteen</translation>
+        <source>Sign the message to prove you own this KGS address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän KGS osoitteen</translation>
     </message>
     <message>
-        <source>The NORT address the message was signed with</source>
-        <translation>NORT osoite, jolla viesti allekirjoitettiin</translation>
+        <source>The KGS address the message was signed with</source>
+        <translation>KGS osoite, jolla viesti allekirjoitettiin</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified NORT address</source>
-        <translation>Vahvista että viesti on allekirjoitettu kyseessä olevalla NORT osoitteella.</translation>
+        <source>Verify the message to ensure it was signed with the specified KGS address</source>
+        <translation>Vahvista että viesti on allekirjoitettu kyseessä olevalla KGS osoitteella.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2060,8 +2060,8 @@ Please check the address and try again.</source>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Northern Core</source>
-        <translation>Northern Ydin</translation>
+        <source>Kingscoin Core</source>
+        <translation>Kingscoin Ydin</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2080,8 +2080,8 @@ Please check the address and try again.</source>
         <translation>PIVX core kehittäjät</translation>
     </message>
     <message>
-        <source>The Northern Core developers</source>
-        <translation>Northern core kehittäjät</translation>
+        <source>The Kingscoin Core developers</source>
+        <translation>Kingscoin core kehittäjät</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2384,7 +2384,7 @@ Please check the address and try again.</source>
     </message>
     </context>
 <context>
-    <name>northern-core</name>
+    <name>kingscoin-core</name>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
         <translation>Varoitus: Verkko ei näytä olevan samaa mieltä! Jotkin mainaajat saattavat kokea ongelmia.</translation>
@@ -2434,8 +2434,8 @@ Please check the address and try again.</source>
         <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko korruptoitunut</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Northern Core</source>
-        <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko vaatii uudemman version Northern Coresta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Kingscoin Core</source>
+        <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko vaatii uudemman version Kingscoin Coresta</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>

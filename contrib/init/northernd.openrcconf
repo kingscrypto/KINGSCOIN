@@ -1,25 +1,25 @@
-# /etc/conf.d/northernd: config file for /etc/init.d/northernd
+# /etc/conf.d/kingscoind: config file for /etc/init.d/kingscoind
 
 # Config file location
-#BITCOIND_CONFIGFILE="/etc/northern/northern.conf"
+#BITCOIND_CONFIGFILE="/etc/kingscoin/kingscoin.conf"
 
 # What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
-#BITCOIND_PIDDIR="/var/run/northernd"
+#BITCOIND_PIDDIR="/var/run/kingscoind"
 
 # What filename to give the pidfile
-#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/northernd.pid"
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/kingscoind.pid"
 
-# Where to write northernd data (be mindful that the blockchain is large)
-#BITCOIND_DATADIR="/var/lib/northernd"
+# Where to write kingscoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/kingscoind"
 
-# User and group to own northernd process
-#BITCOIND_USER="northern"
-#BITCOIND_GROUP="northern"
+# User and group to own kingscoind process
+#BITCOIND_USER="kingscoin"
+#BITCOIND_GROUP="kingscoin"
 
-# Path to northernd executable
-#BITCOIND_BIN="/usr/bin/northernd"
+# Path to kingscoind executable
+#BITCOIND_BIN="/usr/bin/kingscoind"
 
-# Nice value to run northernd under
+# Nice value to run kingscoind under
 #BITCOIND_NICE=0
 
 # Additional options (avoid -conf and -datadir, use flags above)

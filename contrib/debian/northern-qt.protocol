@@ -1,6 +1,6 @@
 [Protocol]
-exec=northern-qt '%u'
-protocol=northern
+exec=kingscoin-qt '%u'
+protocol=kingscoin
 input=none
 output=none
 helper=true
