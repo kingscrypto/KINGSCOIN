@@ -140,9 +140,6 @@ public:
         assert(hashGenesisBlock == uint256("0x000009e8ec0a4a258bc779daa3c62c0069d454f50d4f16ccabe2bba3c40a297d"));
         assert(genesis.hashMerkleRoot == uint256("0xff60ff34a53d6f1c57621256e19fe0e2e8c168b05eb55c9d79ee9fddd9bb31b2"));
 
-        // DNS Seeding
-        //vSeeds.push_back(CDNSSeedData("", ""));
- 
 
         // Kingscoin addresses start with 'K'
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 45);
